@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "kanban-board",
-  description: "kanban-board",
+  title: "Kanban Board",
+  description: "A kanban board that saves your cards in the browser.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
